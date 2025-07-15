@@ -9,3 +9,5 @@ Its gonna take a while to upload them all and translate them to english, and alz
 
 Since i'm still finishing my career, I wanna make clear that i made these things out of fun, and I hope to get a project to work on soon, or get a job, or start developing games, its still a long way to go, but i'm proud of what i've made at the moment,
 for now my priority its to learn how to optimize my code alongside learning new things.
+
+Lastly, i'll add comments to these later on, for now, they're gonna be uploaded with the last modifications i made to them
