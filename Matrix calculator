@@ -1,0 +1,24 @@
+This project is a matrix calculator developed in Java using NetBeans IDE 11.1. The application allows the user to perform fundamental matrix operations through an interactive console interface, accepting dynamic input and displaying real-time results. It allows to do:
+
+- Matrix addition
+- Matrix multiplication
+- Scalar multiplication
+- Matrix transposition
+
+This calculator also allows the user to set up the dimensions of their matrix with their input, it can be any size you want and this calculator has in consideration some errors, but not all of them.
+
+This project was made originally for my university as an educational tool to practice and understand matrix operations. Now im showcasing it to you all to show my skill and giving free use of this.
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Este proyecto es una calculadora matricial desarrollada en Java usando NetBeans IDE 11.1. La aplicacion permite al usuario hacer operaciones matriciales fundamentales por medio de una interfaz interactiva en la consola, aceptando entradas dinamicas y mostrando resultados
+en tiempo real, esta permite hacer:
+
+- Suma de matrices
+- Multiplicacion de matrices
+- Multiplicacion de escalares
+- Transpuesta de matrices
+
+Esta calculadora tambien permite al usuario colocar las dimensiones de las matrices con entradas, puede ser del tamaño que el usuario quiera y esta calculadora tiene en consideracion algunos errores, aunque no todos.
+
+Este proyecto fue hecho originalmente para mi universidad como una herramienta educacional para pracitcar y entender las operaciones con matrices, ahora se los estoy enseñando a todos para demostrar mi habilidad y dar uso gratis de este codigo.
