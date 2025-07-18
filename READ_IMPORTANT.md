@@ -1,5 +1,6 @@
 # My-first-projects
 These are things i made while learning how to program, you can expect a lot of weird coding and not optimized things, but i've made sure they still work, maybe someday i'll try to optimize them.
+For now im showing 3 of them made on java
 
 They're all made on javascript on netbeans IDE 11.1 while i was learning, this taught me a lot of things alongside learning c++ in a way.
 
@@ -13,7 +14,8 @@ for now my priority its to learn how to optimize my code alongside learning new 
 Lastly, i'll add comments to these later on, for now, they're gonna be uploaded with the last modifications i made to them
 
 
-Hola!, estas son cosas que he hecho mientras aprendia a programar, puede llegar a haber muchas lineas extrañas y cosas sin optimizar, me asegure por ahora de que estas funcionen y el plan es optimizarlas a futuro.
+Hola!, estas son cosas que he hecho mientras aprendia a programar, puede llegar a haber muchas lineas extrañas y cosas sin optimizar, me asegure por ahora de que estas funcionen y el plan es optimizarlas a futuro,
+por ahora solo enseñare 3 de estos proyectos hechos en java
 
 Todas estas cosas fueron hechas en javascript con la herramienta NETBEANS IDE 11.1 mientras aprendia, me enseño muchas cosas y de cierto modo aprendi a usar c++ gracias a esto
 
